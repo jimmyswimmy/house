@@ -1,18 +1,19 @@
 Punchlist for the 2014 Addition Project
 =======================================
 
-# Repairs
+## Repairs
 - [ ] Outside front electrical outlets no longer working
 - [ ] Replace damaged electrical outlet, main floor, adjacent to front door, behind shoes/boots rack
 - [ ] Foundation - left wall, right wall, window wall
+- [ ] Foundation - drain both new windows to foundation drain
 
-# Drywall repairs
+## Drywall repairs
 - [ ] Basement stairs
 - [ ] Basement ceiling, hallway
 - [ ] Basement ceiling, study
 - [ ] Basement ceiling, rec room
 
-# Bathroom
+## Bathroom
 - [ ] Identify sink top
 - [ ] Purchase sink top
 - [ ] Install sink top and shower marble
@@ -31,7 +32,7 @@ Punchlist for the 2014 Addition Project
 - [ ] Screen does not fit window
 - [ ] Provide and install 2x sink faucets
 
-# Bedroom
+## Bedroom
 - [ ] Investigate accessible squeaky spots in floor
 - [ ] Floors
 - [ ] Provide shower shut-off access in closet wall
@@ -40,7 +41,7 @@ Punchlist for the 2014 Addition Project
 - [ ] Paint
 - [ ] Install outlets, switches, cover plates
 
-# Kitchen
+## Kitchen
 - [ ] Remove cabinet above hood and replace with panel
 - [ ] Relocate hood and ductwork
 - [ ] Finish backsplash in area exposed after hood is relocated
@@ -59,8 +60,10 @@ Punchlist for the 2014 Addition Project
 - [ ] Install water supply to refrigerator
 - [ ] Clean up trim edging backsplash
 - [ ] Install silverware/cutlery slider drawer in drawer immediately adjacent to sink
+- [ ] Make final decision on soap dispenser
+- [ ] Install bumpers/stops on cabinet doors to prevent damage when they are opened - particularly adjacent to fridge, walls, hood
 
-# New Living Room
+## New Living Room
 - [ ] Install new handle/deadbolt set with provided key code
 - [ ] Install light switches, outlets, covers
 - [ ] Stain molding around double door to porch
@@ -68,7 +71,7 @@ Punchlist for the 2014 Addition Project
 - [ ] Clean paint off windows
 - [ ] Install cable/internet outlet cover plate and outlets
 
-# Existing Living Room
+## Existing Living Room
 - [ ] Sand/blend drywall repairs adjacent to front door
 - [ ] Sand/belnd drywall repairs on kitchen wall ceiling
 - [ ] Paint ceiling as required
@@ -80,7 +83,7 @@ Punchlist for the 2014 Addition Project
 - [ ] Install new light box for hanging lamp in center of living room
 - [ ] Install surface mounting light for lamp above stairs
 
-# Basement 
+## Basement 
 - [ ] Remove existing closet
 - [ ] Install new french doors to new basement space
 - [ ] Repair floors with provided material
@@ -89,11 +92,30 @@ Punchlist for the 2014 Addition Project
 - [ ] Install laundry sink
 - [ ] Install minimum lighting and switch required by code
 
-# Outside
+## Outside Patio
+- [ ] Identify plan for retaining wall, tree removal, patio design
+
+## Outside Screened Porch
+- [ ] Install electrical outlets
+- [ ] Fan
+- [ ] Lighting
+- [ ] Screen
+- [ ] Gravel
+- [ ] Door
+
+## Outside
 - [ ] Install outside electrical outlet covers
 - [ ] Select outside lights and purchase
 - [ ] Install outside lights
+- [ ] Fix deck behind master bedroom and repair siding
+- [ ] Complete new retaining wall/window well underneath master bedroom deck
+- [ ] Extend underground drainage to central drainage/cleanout box in new patio space
+- [ ] Connect sump pump drain to new drainage box
+- [ ] Connect accessible gutter drain(s) to new drainage box
+- [ ] Excavate and remove/replace buried drainage box
+- [ ] Regrade soil on side and rear of house
+- [ ] Add 1" (?) topsoil and seed/sod
 
-# Future
+## Future
 - [ ] Master bedroom crown molding
 - [ ] Master bedroom existing (old) closet trim modifications
