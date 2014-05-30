@@ -12,6 +12,7 @@ Punchlist for the 2014 Addition Project
 - [ ] Basement ceiling, hallway
 - [ ] Basement ceiling, study
 - [ ] Basement ceiling, rec room
+- [ ] Hallway ceiling, adjacent to return air grate
 
 ## Bathroom
 - [ ] Identify sink top
