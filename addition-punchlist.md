@@ -4,6 +4,7 @@ Punchlist for the 2014 Addition Project
 # Repairs
 - [ ] Outside front electrical outlets no longer working
 - [ ] Replace damaged electrical outlet, main floor, adjacent to front door, behind shoes/boots rack
+- [ ] Foundation - left wall, right wall, window wall
 
 # Drywall repairs
 - [ ] Basement stairs
@@ -25,13 +26,15 @@ Punchlist for the 2014 Addition Project
 - [ ] Install lights
 - [ ] Install fan
 - [ ] Install switches and electrical outlets
-- [ ] Install closet door
+- [ ] Install towel rack/toliet paper
+- [ ] Install closet shelves and door
 - [ ] Screen does not fit window
 - [ ] Provide and install 2x sink faucets
 
 # Bedroom
 - [ ] Investigate accessible squeaky spots in floor
 - [ ] Floors
+- [ ] Provide shower shut-off access in closet wall
 - [ ] Closet wall
 - [ ] Install closet pocket door
 - [ ] Paint
@@ -67,7 +70,7 @@ Punchlist for the 2014 Addition Project
 
 # Existing Living Room
 - [ ] Sand/blend drywall repairs adjacent to front door
-- [ ] Sand/belnd drywall repairs on kitchen wall
+- [ ] Sand/belnd drywall repairs on kitchen wall ceiling
 - [ ] Paint ceiling as required
 - [ ] Paint wall adjacent to front door
 - [ ] Paint wall above trim on 36" kitchen passthru (Pumpkin 1)
