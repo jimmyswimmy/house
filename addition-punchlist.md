@@ -80,9 +80,12 @@ Punchlist for the 2014 Addition Project
 - [ ] Paint wall above trim on 36" kitchen passthru (Pumpkin 1)
 - [ ] Paint trim on 36" kitchen passthru (White Semigloss)
 - [ ] Install light switches, outlets, covers
-- [ ] Install gate at top of stairs
 - [ ] Install new light box for hanging lamp in center of living room
 - [ ] Install surface mounting light for lamp above stairs
+
+## Stairs
+- [ ] Install gate at top of stairs
+- [ ] Install and paint trim near top on either side of stairs
 
 ## Basement 
 - [ ] Remove existing closet
